@@ -1,0 +1,15 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Frühstück"
+    },
+    {
+        "id": 1,
+        "title": "Kräuterbutter"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
